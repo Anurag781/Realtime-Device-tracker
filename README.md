@@ -25,3 +25,6 @@ A high-performance, real-time location tracking system built with **Node.js**, *
 | **Styling** | CSS3 |
 
 ---
+
+<img width="1919" height="967" alt="image" src="https://github.com/user-attachments/assets/06fa4ebd-c360-4db8-b27d-48422fd55894" />
+
