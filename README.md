@@ -22,6 +22,6 @@ A high-performance, real-time location tracking system built with **Node.js**, *
 | **Real-Time Engine** | Socket.io |
 | **Frontend Map** | Leaflet.js (OpenStreetMap API) |
 | **Templating** | EJS |
-| **Styling** | CSS3 / Vanilla JS |
+| **Styling** | CSS3 |
 
 ---
